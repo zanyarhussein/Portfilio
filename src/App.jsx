@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './app.css';
+
 import { motion, AnimatePresence } from "framer-motion";
 
 const App = () => {
